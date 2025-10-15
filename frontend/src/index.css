@@ -1,0 +1,15 @@
+body {
+  font-family: sans-serif;
+  background-color: #f9fafb;
+}
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+th, td {
+  padding: 12px;
+  border: 1px solid #ddd;
+}
+th {
+  background-color: #f3f4f6;
+}
